@@ -1,0 +1,84 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.lyb {
+	position: relative;
+	top: 50px;
+	width: 780px;
+	height: 980px;
+	margin: 0 auto;
+	box-shadow: 10px 10px 30px #ccc;
+	border-radius: 2px;
+	padding: 10px;
+}
+.lyb-c{
+	float: left;
+	width: 100%;
+}
+.lyb-ct{
+	float: left;
+	width: 100%;
+}
+.lyb-cth{
+	float: left;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	font-size: 15px;
+	color: #333333;
+}
+.lyb-ctf{
+	float: left;
+	width: 100%;
+}
+.lyb-ctfb{
+	float: right;
+	width: 100%;
+	border-bottom: 1px solid #D0D0D0;
+	margin-bottom: 20px;
+}
+.lyb-ctfbb{
+	float: right;
+	width: 150px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #00cc66;
+    color: #FFFFFF;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 20px 0;
+    font-weight: bold;
+}
+.lyb-ctfbb:hover{
+	background-color: #32d684;
+}
+.lyb-cu{
+	float: left;
+	width: 100%;
+	height: 500px;
+	overflow: auto;
+}
+.lyb-ci{
+	float: left;
+	width: 98%;
+	padding: 0 1%;
+	border-bottom: 1px dashed #D0D0D0;
+}
+.lyb-cil{
+	float: left;
+	width: 100%;
+	padding-top: 6px;
+	font-size: 15px;
+	color: #666666;
+}
+.lyb-cir{
+	float: right;
+	height: 34px;
+	line-height: 34px;
+	font-size: 14px;
+	color: #999999;
+}
