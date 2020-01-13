@@ -1,10 +1,10 @@
 ### XSS实验导语
-通过本实验进行深度安全开发实践；我们提取了本实验的XSS防御核心策略，在ThinkPHP5框架实现纯文本、富文本便签功能XSS攻击与防御实验环境。[实践TP5框架XSS防御实验与安全参考](https://www.anquanlong.com/lab_detail?lib=16 "实践TP5框架XSS防御实验与安全参考")
+通过本实验进行深度安全开发实践；我们提取了本实验的XSS防御核心策略，在ThinkPHP5框架实现纯文本、富文本便签功能XSS攻击与防御实验环境。[实践TP5框架XSS防御实验与安全参考](https://www.anquanlong.com/lab_introduce?lab_id=13"实践TP5框架XSS防御实验与安全参考")
 
-###实验室目录
+### 实验室目录
 >0x1 安全开发实验介绍
-0x2 实验1:纯文本XSS漏洞攻防
-0x3 实验2:富文本XSS漏洞攻防
+0x2 实验1:xss_a纯文本XSS漏洞攻防
+0x3 实验2:xss_b富文本XSS漏洞攻防
 附加：反射DOM型xss漏洞挑战
 
 ### 0x1 XSS安全开发实验介绍
@@ -46,7 +46,5 @@ Ubuntu16、mysql5.7、PHP7.2
 
 `实验2:add.php`  后端存储数据代码，对数据进行过滤存储与后端php白名单数据过滤方法。
 
->ok,以上基础信息了解完，我们进行下一步实验！
-
-`0x2 实验1:纯文本XSS漏洞攻防`
+>ok,以上基础信息了解完，我们进行下一步实验！[XSS漏洞攻击与防御最佳安全开发](https://www.anquanlong.com/lab_introduce?lab_id=13"XSS漏洞攻击与防御最佳安全开发")
 
